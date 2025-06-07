@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SuperHeroApp</string>
+
+    <string name="hero_name_1">Clark Kent</string>
+    <string name="hero_alias_1">Superman</string>
+    <string name="hero_desc_1">Es un extraterrestre del planeta Krypton con superfuerza y visión láser.</string>
+
+    <string name="hero_name_2">Bruce Wayne</string>
+    <string name="hero_alias_2">Batman</string>
+    <string name="hero_desc_2">Un detective maestro sin poderes pero con gran inteligencia y entrenamiento.</string>
+
+    <string name="hero_name_3">Diana Prince</string>
+    <string name="hero_alias_3">Wonder Woman</string>
+    <string name="hero_desc_3">Guerrera amazona con fuerza sobrehumana y el lazo de la verdad.</string>
+</resources>

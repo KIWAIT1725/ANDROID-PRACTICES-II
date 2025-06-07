@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">30DAYS</string>
+
+    <string name="day1_title">Sonríe hoy</string>
+    <string name="day1_desc">Sonríe a alguien y mejora su día.</string>
+
+    <string name="day2_title">Ejercicio ligero</string>
+    <string name="day2_desc">Camina 15 minutos para despejar tu mente.</string>
+
+    <string name="day3_title">Agradece</string>
+    <string name="day3_desc">Escribe tres cosas por las que estás agradecido.</string>
+
+    <string name="day4_title">Respira profundo</string>
+    <string name="day4_desc">Haz ejercicios de respiración durante 5 minutos.</string>
+
+    <string name="day5_title">Escucha música</string>
+    <string name="day5_desc">Escucha tu canción favorita y disfruta el momento.</string>
+
+    <string name="day6_title">Medita</string>
+    <string name="day6_desc">Practica meditación guiada por 10 minutos.</string>
+
+    <string name="day7_title">Ayuda a alguien</string>
+    <string name="day7_desc">Realiza una buena acción para alguien hoy.</string>
+
+    <string name="day8_title">Lee un libro</string>
+    <string name="day8_desc">Lee al menos 10 páginas de un libro que te guste.</string>
+
+    <string name="day9_title">Escribe tus metas</string>
+    <string name="day9_desc">Define 3 metas para la semana.</string>
+
+    <string name="day10_title">Bebe agua</string>
+    <string name="day10_desc">Toma al menos 2 litros de agua hoy.</string>
+
+    <string name="day11_title">Desconéctate</string>
+    <string name="day11_desc">Apaga tus dispositivos 1 hora antes de dormir.</string>
+
+    <string name="day12_title">Sonríe a un extraño</string>
+    <string name="day12_desc">Regala una sonrisa a alguien que no conozcas.</string>
+
+    <string name="day13_title">Escribe un diario</string>
+    <string name="day13_desc">Anota tus pensamientos y emociones del día.</string>
+
+    <string name="day14_title">Practica gratitud</string>
+    <string name="day14_desc">Dale las gracias a alguien importante para ti.</string>
+
+    <string name="day15_title">Haz estiramientos</string>
+    <string name="day15_desc">Estira tu cuerpo durante 10 minutos.</string>
+
+    <string name="day16_title">Practica la paciencia</string>
+    <string name="day16_desc">Respira profundo y espera sin frustrarte.</string>
+
+    <string name="day17_title">Aprende algo nuevo</string>
+    <string name="day17_desc">Dedica 15 minutos a aprender un tema que te interese.</string>
+
+    <string name="day18_title">Pasea en la naturaleza</string>
+    <string name="day18_desc">Camina por un parque o zona natural.</string>
+
+    <string name="day19_title">Desayuna bien</string>
+    <string name="day19_desc">Prepara un desayuno nutritivo y balanceado.</string>
+
+    <string name="day20_title">Haz una pausa</string>
+    <string name="day20_desc">Toma 5 minutos para relajarte y no hacer nada.</string>
+
+    <string name="day21_title">Comparte una sonrisa</string>
+    <string name="day21_desc">Comparte una sonrisa con alguien cercano.</string>
+
+    <string name="day22_title">Evita el multitasking</string>
+    <string name="day22_desc">Concéntrate en una tarea a la vez hoy.</string>
+
+    <string name="day23_title">Escribe una carta</string>
+    <string name="day23_desc">Escribe una carta a alguien especial.</string>
+
+    <string name="day24_title">Limpia tu espacio</string>
+    <string name="day24_desc">Ordena y limpia tu lugar de trabajo o habitación.</string>
+
+    <string name="day25_title">Escucha un podcast</string>
+    <string name="day25_desc">Escucha un podcast inspirador o educativo.</string>
+
+    <string name="day26_title">Haz un cumplido</string>
+    <string name="day26_desc">Dale un cumplido sincero a alguien.</string>
+
+    <string name="day27_title">Respira aire fresco</string>
+    <string name="day27_desc">Sal afuera y respira aire puro durante unos minutos.</string>
+
+    <string name="day28_title">Escribe algo creativo</string>
+    <string name="day28_desc">Escribe un poema, historia o lo que te inspire.</string>
+
+    <string name="day29_title">Haz yoga</string>
+    <string name="day29_desc">Practica una rutina básica de yoga.</string>
+
+    <string name="day30_title">Celebra tus logros</string>
+    <string name="day30_desc">Reconoce todo lo positivo que lograste este mes.</string>
+
+
+</resources>

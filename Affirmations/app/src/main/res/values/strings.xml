@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+
+    <string-array name="affirmations_array">
+        <item>Soy capaz de lograr lo que me proponga.</item>
+        <item>Cada día es una nueva oportunidad.</item>
+        <item>Estoy lleno de energía y motivación.</item>
+        <item>Confío en mí y en mis decisiones.</item>
+        <item>Me respeto y me valoro tal como soy.</item>
+        <item>Merezco cosas buenas en la vida.</item>
+        <item>Estoy en paz con mi pasado y presente.</item>
+        <item>Atraigo cosas positivas a mi vida.</item>
+        <item>Puedo superar cualquier desafío.</item>
+        <item>Estoy agradecido por todo lo que tengo.</item>
+    </string-array>
+</resources>

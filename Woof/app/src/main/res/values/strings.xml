@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Woof</string>
+
+    <!-- Perros -->
+    <string name="dog_name_1">Max</string>
+    <string name="dog_age_1">2 años</string>
+    <string name="dog_desc_1">Max es un perro amigable que ama correr en el parque.</string>
+
+    <string name="dog_name_2">Luna</string>
+    <string name="dog_age_2">1 año</string>
+    <string name="dog_desc_2">Luna es muy juguetona y le encantan los niños.</string>
+
+    <string name="dog_name_3">Rocky</string>
+    <string name="dog_age_3">3 años</string>
+    <string name="dog_desc_3">Rocky es protector y leal.</string>
+
+    <string name="dog_name_4">Bella</string>
+    <string name="dog_age_4">4 años</string>
+    <string name="dog_desc_4">Bella es muy cariñosa y tranquila.</string>
+
+    <string name="dog_name_5">Charlie</string>
+    <string name="dog_age_5">5 años</string>
+    <string name="dog_desc_5">Charlie tiene mucha energía y es curioso.</string>
+
+    <string name="dog_name_6">Daisy</string>
+    <string name="dog_age_6">6 años</string>
+    <string name="dog_desc_6">Daisy es independiente pero muy leal.</string>
+
+    <string name="dog_name_7">Cooper</string>
+    <string name="dog_age_7">7 años</string>
+    <string name="dog_desc_7">Cooper disfruta de paseos largos.</string>
+
+    <string name="dog_name_8">Molly</string>
+    <string name="dog_age_8">2 años</string>
+    <string name="dog_desc_8">Molly es juguetona y adora los juguetes de peluche.</string>
+</resources>
